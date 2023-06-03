@@ -1,0 +1,7 @@
+<?php
+
+define('COST_TRIP_NORMAL', 2);
+define('COST_TRIP_PRIORITY_KG', 4);
+define('COST_TRIP_PRIORITY_VOLUME', 10);
+define('COST_TRIP_REFUND', 1000);
+
